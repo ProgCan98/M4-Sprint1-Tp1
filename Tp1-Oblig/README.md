@@ -89,3 +89,13 @@ Antes de ejecutar la aplicación, me asegure de tener lo siguiente instalado:
 - **Tailwind CSS**: Se utilizan clases de Tailwind para estilizar los componentes, proporcionando un diseño responsivo y moderno.
 - **Bootstrap Icons**: Los íconos se implementan mediante la clase `bi` de Bootstrap Icons, asegurando un diseño consistente.
 - **Responsividad**: El diseño es completamente responsivo, adaptándose a dispositivos móviles y de escritorio mediante clases como `md:hidden`, `md:flex`, y `md:grid-cols-3`.
+
+## Motion - Animaciones
+
+1. El título principal aparece con un desvanecimiento y desplazamiento desde abajo.
+
+2. Las tarjetas de servicios entran con un efecto escalonado, desplazándose desde abajo con un retraso para cada tarjeta.
+
+3. Las descripciones de las tarjetas se animan con un desvanecimiento y expansión al mostrarse.
+
+4. Los botones tienen efectos de escala al hacer hover y clic.
